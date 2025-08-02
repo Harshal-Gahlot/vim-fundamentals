@@ -12,11 +12,9 @@ another 10...)
 
 i: left side of cursor
 a: right side of cursor
-  ----I: 
+  sdklfasdjfls----I: 
   A: -----           
 o: insert new line below line and go into insert mode
-O: insert new line above line and go into insert mode
-
 lets play around
 
 
