@@ -15,6 +15,7 @@ a: right side of cursor
   sdklfasdjfls----I: 
   A: -----           
 o: insert new line below line and go into insert mode
+O: insert new line above line and go into insert mode
 lets play around
 
 
